@@ -1,4 +1,4 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-
-Using GitHub is cool!
+<br>
+This repository is named 'hello-world'.
